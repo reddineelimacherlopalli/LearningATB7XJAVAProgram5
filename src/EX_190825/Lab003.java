@@ -7,8 +7,8 @@ public class Lab003 {
         a = 7;
         b = 6;
         c = a * b;
-        if (c >= 10) {
-            System.out.println("Am big");
+        if (c>=10) {
+            System.out.println("Am b");
         } else {
             System.out.println("Am small");
         }
